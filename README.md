@@ -12,8 +12,9 @@ I enjoy turning business logic into efficient, process-driven systems.
 - Data Analytics
 - AgilePoint NX (Workflow & RBAC)
 
-## 📈 Currently Learning
-Improving my expertise in workflow architecture, automation, and data-driven applications.
+## 💼 Currently
+Working as a Trainer and Developer, specializing in workflow automation and web technologies.  
+Delivering technical training while building real-world business solutions.
 
 ## 🤝 Let's Connect
-Open to collaboration, learning opportunities, and innovative projects.
+Open to collaboration, training opportunities, and innovative development projects.
